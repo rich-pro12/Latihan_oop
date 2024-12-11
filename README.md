@@ -19,4 +19,4 @@ TI.A.5.24
 ![foto](https://raw.githubusercontent.com/rich-pro12/foto1/71daf08858fb18db137f1c976e4984ca50d47482/View%20Mahasiswa.png)
 
 ### main.py
-![foto]()
+![foto](https://raw.githubusercontent.com/rich-pro12/foto1/6be62a16579a029663a187fd1616e885765ec685/main%20py.png)
