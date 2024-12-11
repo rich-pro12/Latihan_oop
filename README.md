@@ -10,7 +10,7 @@ TI.A.5.24
 
 # Program Pyhton
 ### Data/Mahasiswa.py
-![foto]()
+![foto](https://raw.githubusercontent.com/rich-pro12/foto1/d712d4bfd90ed9b859f6bed7becc687d579c963f/Data%20MAhasiswa.png)
 
 ### view/input_form.py
 ![foto]()
