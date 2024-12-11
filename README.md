@@ -6,7 +6,7 @@ Richie Pranata
 TI.A.5.24
 
 # Struktur Directori
-![foto]()
+![foto](https://raw.githubusercontent.com/rich-pro12/foto1/fa9082c0003277ab4022455432a930e487c10f54/Struktur%20Directori.png)
 
 # Program Pyhton
 ### Data/Mahasiswa.py
