@@ -16,7 +16,7 @@ TI.A.5.24
 ![foto](https://raw.githubusercontent.com/rich-pro12/foto1/008a598dbcec5699252f3225a01c1e3610d33848/Class%20input.png)
 
 ### view/mahasiswa.py
-![foto]()
+![foto](https://raw.githubusercontent.com/rich-pro12/foto1/71daf08858fb18db137f1c976e4984ca50d47482/View%20Mahasiswa.png)
 
 ### main.py
 ![foto]()
