@@ -13,7 +13,7 @@ TI.A.5.24
 ![foto](https://raw.githubusercontent.com/rich-pro12/foto1/d712d4bfd90ed9b859f6bed7becc687d579c963f/Data%20MAhasiswa.png)
 
 ### view/input_form.py
-![foto]()
+![foto](https://raw.githubusercontent.com/rich-pro12/foto1/008a598dbcec5699252f3225a01c1e3610d33848/Class%20input.png)
 
 ### view/mahasiswa.py
 ![foto]()
